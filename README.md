@@ -82,7 +82,7 @@ To discover live hosts on my local network, identify their IP and MAC addresses,
 
 ### 1. Nmap Installation
 
-![Nmap Installation](Nmap-install.png)
+![Nmap Installation](W2-PM5-Network-Scanning-Zenmap/screenshots/Nmap-install.PNG)
 
 ### 2. Nmap Lab Completed
 
