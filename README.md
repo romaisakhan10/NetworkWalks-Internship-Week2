@@ -41,28 +41,27 @@ To gather information about a target domain using different footprinting and rec
 
 ### 1. cURL Command
 
-![cURL Result](W2-PM1-Footprinting-Reconnaissance/screenshots/curl-result-command.png)
+![cURL Result](W2-PM1-Footprinting-Reconnaissance/screenshots/curl-result-command.PNG)
 
 ### 2. Nslookup
 
-![Nslookup Result](W2-PM1-Footprinting-Reconnaissance/screenshots/nslookupUp-result-command.png)
+![Nslookup Result](W2-PM1-Footprinting-Reconnaissance/screenshots/nslookUp-result-command.PNG)
 
 ### 3. DNS SRV Records
 
-![SRV Records](W2-PM1-Footprinting-Reconnaissance/screenshots/SRV-records-command.png)
+![SRV Records](W2-PM1-Footprinting-Reconnaissance/screenshots/SRV-records-command.PNG)
 
 ### 4. WAF Detection
 
-![WAF Result](W2-PM1-Footprinting-Reconnaissance/screenshots/WAF-result-command.png)
+![WAF Result](W2-PM1-Footprinting-Reconnaissance/screenshots/WAF-result-command.PNG)
 
 ### 5. WhatWeb Scan
 
-![WhatWeb Result](W2-PM1-Footprinting-Reconnaissance/screenshots/whatWeb-result-command.png)
+![WhatWeb Result](W2-PM1-Footprinting-Reconnaissance/screenshots/whatWeb-result-command.PNG)
 
 ### 6. WHOIS Lookup
 
-![WHOIS Result](W2-PM1-Footprinting-Reconnaissance/screenshots/whoIs-result-command.png)
-
+![WHOIS Result](W2-PM1-Footprinting-Reconnaissance/screenshots/whoIs-result-command.PNG)
 # Module 2: W2-PM5 – Network Scanning with Zenmap
 
 ## Objective
