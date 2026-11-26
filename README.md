@@ -41,29 +41,27 @@ To gather information about a target domain using different footprinting and rec
 
 ### 1. cURL Command
 
-![cURL Result](curl-result-command.png)
+![cURL Result](W2-PM1-Footprinting-Reconnaissance/screenshots/curl-result-command.png)
 
 ### 2. Nslookup
 
-![Nslookup Result](nslookupUp-result-command.png)
+![Nslookup Result](W2-PM1-Footprinting-Reconnaissance/screenshots/nslookupUp-result-command.png)
 
 ### 3. DNS SRV Records
 
-![SRV Records](SRV-records-command.png)
+![SRV Records](W2-PM1-Footprinting-Reconnaissance/screenshots/SRV-records-command.png)
 
 ### 4. WAF Detection
 
-![WAF Result](WAF-result-command.png)
+![WAF Result](W2-PM1-Footprinting-Reconnaissance/screenshots/WAF-result-command.png)
 
 ### 5. WhatWeb Scan
 
-![WhatWeb Result](whatWeb-result-command.png)
+![WhatWeb Result](W2-PM1-Footprinting-Reconnaissance/screenshots/whatWeb-result-command.png)
 
 ### 6. WHOIS Lookup
 
-![WHOIS Result](whoIs-result-command.png)
-
----
+![WHOIS Result](W2-PM1-Footprinting-Reconnaissance/screenshots/whoIs-result-command.png)
 
 # Module 2: W2-PM5 – Network Scanning with Zenmap
 
@@ -86,26 +84,25 @@ To discover live hosts on my local network, identify their IP and MAC addresses,
 
 ### 2. Nmap Lab Completed
 
-![Nmap Lab Completed](nmap-lab-completed.png)
+![Nmap Lab Completed](W2-PM5-Network-Scanning-Zenmap/screenshots/nmap-lab-completed.PNG)
 
 ### 3. Operating System Details
 
-![OS Details](OS-details-scanning-for-practice.png)
+![OS Details](W2-PM5-Network-Scanning-Zenmap/screenshots/OS-details-scanning-for-practice.png)
 
 ### 4. Network Scanning Practice
 
-![Scanning Practice](scanning-practiceIP.png)
+![Scanning Practice](W2-PM5-Network-Scanning-Zenmap/screenshots/scanning-practiceIP.png)
 
 ### 5. My Network Topology
 
-![My Network Topology](topologyOfMyNetwork.png)
+![My Network Topology](W2-PM5-Network-Scanning-Zenmap/screenshots/topologyOfMyNetwork.png)
 
 ### 6. Practice Task Topology
 
-![Practice Task Topology](topologyOfPracticeTask.png)
+![Practice Task Topology](W2-PM5-Network-Scanning-Zenmap/screenshots/topologyOfPracticeTask.png)
 
 ---
-
 ## Key Learning Outcomes
 
 - Learned the fundamentals of footprinting and reconnaissance.
